@@ -1,0 +1,105 @@
+                                                                                * {
+                                                                                    margin: 0;
+                                                                                    padding: 0;
+                                                                                    text-decoration: none;
+                                                                                    text-align: center;
+                                                                                    box-sizing: border-box;
+                                                                                }
+                                                                                
+                                                                                .main-header {
+                                                                                    background: black;
+                                                                                    font-size: 30px;
+                                                                                    font-family: fantasy;
+                                                                                    font-style: italic;
+                                                                                    border: 5px solid green;
+                                                                                    display: inline-block;
+                                                                                    width: 100%;
+                                                                                    text-align: right;
+                                                                                }
+                                                                                
+                                                                                .hostt {
+                                                                                    display: inline-block;
+                                                                                    background: red;
+                                                                                    padding: 3px 6px;
+                                                                                    border: 3px;
+                                                                                }
+                                                                                
+                                                                                header>div {
+                                                                                    display: inline-block;
+                                                                                    text-align: left;
+                                                                                }
+                                                                                
+                                                                                .uhost {
+                                                                                    text-align: left !important;
+                                                                                }
+                                                                                
+                                                                                .main-nav {
+                                                                                    margin-left: 700px;
+                                                                                    display: inline-block;
+                                                                                    padding: 0px 20px;
+                                                                                }
+                                                                                
+                                                                                .main-nav__item {
+                                                                                    display: inline-block;
+                                                                                }
+                                                                                
+                                                                                .pic {
+                                                                                    background-image: url(freedom.jpg);
+                                                                                    height: 600px;
+                                                                                    background-position: center;
+                                                                                    background-size: cover;
+                                                                                    color: aliceblue;
+                                                                                    font-size: 30px;
+                                                                                    padding: 10px;
+                                                                                    text-align: left;
+                                                                                }
+                                                                                
+                                                                                .para {
+                                                                                    font-weight: bolder;
+                                                                                    font-size: 30px;
+                                                                                    color: green;
+                                                                                    text-align: center;
+                                                                                }
+                                                                                
+                                                                                article {
+                                                                                    display: inline-block;
+                                                                                    font-size: 20px;
+                                                                                }
+                                                                                
+                                                                                article h3 {
+                                                                                    color: green;
+                                                                                }
+                                                                                
+                                                                                .rec {
+                                                                                    background: white;
+                                                                                    border-radius: 10px;
+                                                                                }
+                                                                                
+                                                                                article h1 {
+                                                                                    color: green;
+                                                                                    font-size: 20px;
+                                                                                }
+                                                                                
+                                                                                .one {
+                                                                                    background-color: darkseagreen;
+                                                                                    color: aliceblue;
+                                                                                }
+                                                                                
+                                                                                .two {
+                                                                                    background-color: green;
+                                                                                    color: aliceblue;
+                                                                                    margin-left: 10px;
+                                                                                }
+                                                                                
+                                                                                .three {
+                                                                                    background-color: darkseagreen;
+                                                                                    color: aliceblue;
+                                                                                    margin-left: 10px;
+                                                                                }
+                                                                                
+                                                                                article button {
+                                                                                    border-radius: 8px;
+                                                                                    color: white;
+                                                                                    background: green;
+                                                                                    font-size: 20px;
+                                                                                }
